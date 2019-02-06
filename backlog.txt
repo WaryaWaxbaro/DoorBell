@@ -1,0 +1,18 @@
+backlog - laitel‰heinen ohjelmointi
+
+anturi toimimaan (HCsr04)
+	-yhteys raspberryyn
+	-et‰isyyden laskenta
+
+oven/muun trikkerin tapahtuessa telegram viesti saajille
+	-telegram botti
+
+ovikello ja ledit indokoimaan oven tilaa
+	-ovikello l‰hett‰‰ telegrammin saajalla
+	-punainen ledi palaa kun ovi kiinni
+	- vihre‰ kun auki
+	- saajat voivat avata oven telegrammilla
+
+https://github.com/python-telegram-bot/python-telegram-bot
+
+https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi

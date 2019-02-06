@@ -1,0 +1,7 @@
+528894075:AAHBi4AjhgmSHxFDCVgcN9u9nvjWiALJyF8
+
+Bot name: Doorbot
+Bot username: llo_programming_doorbot
+
+viestin lähettäminen botilla (koko komento):
+https://api.telegram.org/bot528894075:AAHBi4AjhgmSHxFDCVgcN9u9nvjWiALJyF8/sendMessage?chat_id=-302281711&text=
